@@ -1,5 +1,5 @@
 The Superstore report with dashboard is created using powerbi desktop. Different dax functions were used to create different measurements and calculations related with dates and numerical data. The dataset was of the retail Superstores data in US in 2015 and the global Superstore dataset in year 2016. 
-<a name="Superstore Dashboard"></a>
+
 # https://app.powerbi.com/view?r=eyJrIjoiYzA3NzczYTMtNTZkZS00ZGZlLTk3ODMtYzJhZTk1ZmM0Mjk3IiwidCI6IjU2ZGRkZjU0LTQxMDctNDdkOS1hZWRlLTc4NWNjM2ZiMmY1NSIsImMiOjh9
 
 Link to the project in Power BI service: <a name="Superstore Dashboard"></a>
